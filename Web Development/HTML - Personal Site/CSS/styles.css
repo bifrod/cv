@@ -1,0 +1,28 @@
+  body {
+    background-color: #5e6f64;
+  }
+
+  body {
+    margin: 0;
+    text-align: center;
+    font-family: "Avant Garde",Avantgarde,"Century Gothic",CenturyGothic,AppleGothic,sans-serif;
+  }
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #679b9b;
+    border-width: 7px;
+    width: 5%;
+  }
+
+  img {
+    height: 200px;
+  }
+h1 {
+  color: #ff9a76;
+}
+
+h3 {
+  color: #ffe78f;
+}
